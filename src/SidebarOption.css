@@ -35,6 +35,6 @@
     font-weight: 800 !important;
 }
 
-.sidebarOption--active > {
+.sidebarOption--active > p{
     display: inline !important;
 }
